@@ -1,7 +1,3 @@
-Para um estudante do 5º semestre de CC que está de olho em uma vaga na SLC Agrícola, o seu README não pode ser apenas uma descrição básica. Ele precisa mostrar que você entende de lógica, organização e documentação técnica.
-
-Aqui está um modelo de README.md profissional, pronto para você copiar e adaptar. Ele usa uma estrutura que recrutadores de grandes empresas adoram ver:
-
 📝 Gerador de Números Aleatórios
 Este é um projeto desenvolvido para facilitar a geração de números dentro de um intervalo customizável. O foco principal foi criar uma interface intuitiva, responsiva e com uma lógica matemática robusta para garantir a aleatoriedade e a inclusão dos limites definidos pelo usuário.
 
