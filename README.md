@@ -1,20 +1,18 @@
-📝 Gerador de Números Aleatórios
-Este é um projeto desenvolvido para facilitar a geração de números dentro de um intervalo customizável. O foco principal foi criar uma interface intuitiva, responsiva e com uma lógica matemática robusta para garantir a aleatoriedade e a inclusão dos limites definidos pelo usuário.
+Gerador de Números Aleatórios
+Este projeto é uma aplicação web simples e funcional para sorteio de números dentro de um intervalo definido pelo usuário. Desenvolvido com foco em lógica de programação e manipulação do DOM, ele demonstra a aplicação prática de conceitos matemáticos no ecossistema JavaScript.
 
 🚀 Funcionalidades
-Intervalo Customizável: Permite definir valores mínimos e máximos.
+Sorteio Inclusivo: Garante que tanto o valor mínimo quanto o máximo definidos possam ser sorteados.
 
-Lógica Inclusiva: Diferente de geradores simples, este projeto garante que tanto o valor mínimo quanto o máximo possam ser sorteados.
+Interface Dark Mode: Design moderno inspirado na paleta de cores do GitHub para melhor conforto visual.
 
-Interface Responsiva: Adaptado para dispositivos móveis e desktops.
+Design Responsivo: O layout se adapta a diferentes tamanhos de tela (Mobile e Desktop).
 
-Feedback Visual: Efeitos de interação nos botões e inputs para melhor experiência do usuário (UX).
+Feedback de Interação: Botões com efeitos de clique (scale) e campos de entrada otimizados.
 
 🛠️ Tecnologias Utilizadas
-O projeto foi construído utilizando o "trio fundamental" do desenvolvimento web moderno:
+HTML5: Estruturação semântica.
 
-HTML5: Estruturação semântica da aplicação.
+CSS3: Estilização avançada com Flexbox e variáveis de cores.
 
-CSS3: Estilização com foco em Dark Mode e interatividade via pseudo-classes.
-
-JavaScript (ES6+): Manipulação do DOM e implementação da lógica de sorteio.
+JavaScript (ES6+): Lógica de sorteio e interatividade.
